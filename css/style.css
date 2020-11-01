@@ -44,6 +44,7 @@ h1 {
     content: "BEST";
     color: rgb(40, 110, 131);
     font-size: 0.6em;
+    font-style: oblique;
     vertical-align: top;
 }
 
